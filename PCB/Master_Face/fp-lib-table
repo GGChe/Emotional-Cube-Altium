@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name Connectors_FPC)(type KiCad)(uri "$(KIPRJMOD)/Lib/Footprints/Connectors_FPC.pretty")(options "")(descr "FPC/FCC Connectors footprints"))
+  (lib (name Johanson_Baluns)(type KiCad)(uri "$(KIPRJMOD)/Lib/Footprints/Johanson_Baluns.pretty")(options "")(descr "Johanson Baluns footprints"))
+  (lib (name LGA)(type KiCad)(uri "$(KIPRJMOD)/Lib/Footprints/LGA.pretty")(options "")(descr "LGA Package footprints"))
+  (lib (name QFN)(type KiCad)(uri "$(KIPRJMOD)/Lib/Footprints/QFN.pretty")(options "")(descr "QFN Package footprints"))
+  (lib (name Vias)(type KiCad)(uri "$(KIPRJMOD)/Lib/Footprints/Vias.pretty")(options "")(descr "Stitching holes"))
+  (lib (name CSP)(type KiCad)(uri "$(KIPRJMOD)/Lib/Footprints/CSP.pretty")(options "")(descr "CSP Package footprints"))
+)
